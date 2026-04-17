@@ -303,7 +303,8 @@ Este projeto documenta os seguintes conceitos de análise e modelagem de sistema
 | [💎 Diagrama de Classes](concepts/class-diagram.md)                                                | Como extrair classes dos requisitos e modelar atributos, métodos e relacionamentos                  |
 | [🔄 Conversão de Requisitos em Classes](concepts/requirements-to-classes.md)                       | Passo a passo para transformar substantivos e verbos dos requisitos em classes, atributos e métodos |
 
-> Os arquivos de conceito explicam como cada artefato foi construído a partir do zero, com exemplos extraídos diretamente do projeto.
+_Os arquivos de conceito explicam como cada artefato foi construído a partir do zero, com exemplos extraídos diretamente do projeto._
+
 > [!CAUTION]
 > A implementação real deste sistema requer hardware específico (sensores/atuadores). Este repositório foca exclusivamente na Análise e Modelagem.
 
