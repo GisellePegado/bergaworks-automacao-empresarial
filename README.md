@@ -312,5 +312,5 @@ _Os arquivos de conceito explicam como cada artefato foi construído a partir do
 
 ## 👩‍💻 Autora
 
-**Giselle S.**  
+**Giselle Pegado**  
 Análise e Desenvolvimento de Sistemas — UNINTER · 2025
