@@ -1,4 +1,4 @@
-# Bergaworks Money — Sistema de Automação Empresarial
+# 🤖 Bergaworks Money — Sistema de Automação Empresarial
 
 > [!NOTE]
 > Este é um projeto de **Análise e Modelagem de Sistemas** desenvolvido para a UNINTER (2025). O foco é a estruturação teórica e técnica de uma solução de automação inteligente.
